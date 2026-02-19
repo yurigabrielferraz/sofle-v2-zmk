@@ -41,9 +41,9 @@ layers:
   - '|'
   - {t: ▽, type: trans}
   - '='
-  - '-'
-  - KP PLUS
-  - '{'
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - '}'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -102,9 +102,9 @@ layers:
   - BSPC
   - {t: ▽, type: trans}
   - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
