@@ -44,7 +44,7 @@ layers:
   - {t: V, h: Gui+V}
   - B
   - MUTE
-  - PP
+  - PLAY PAUSE
   - N
   - M
   - ','
