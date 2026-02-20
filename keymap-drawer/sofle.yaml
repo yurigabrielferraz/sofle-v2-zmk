@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: sofle}
 layers:
   default:
-  - '`'
+  - '&DTapQuote'
   - '1'
   - '2'
   - '3'
@@ -39,9 +39,9 @@ layers:
   - BACKSPACE
   - LSHFT
   - Z
-  - X
-  - C
-  - V
+  - {t: X, h: Gui+X}
+  - {t: C, h: Gui+C}
+  - {t: V, h: Gui+V}
   - B
   - MUTE
   - PP
