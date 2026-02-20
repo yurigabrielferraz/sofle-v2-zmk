@@ -44,7 +44,7 @@ layers:
   - V
   - B
   - MUTE
-  - '&mkp MCLK'
+  - PP
   - N
   - M
   - ','
@@ -100,9 +100,9 @@ layers:
   - '|'
   - {t: ▽, type: trans}
   - '='
-  - Gui+X
-  - Gui+C
-  - Gui+V
+  - '>'
+  - ']'
+  - '}'
   - '}'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -123,12 +123,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   right:
-  - BT CLR
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -152,7 +152,7 @@ layers:
   - LCTRL
   - LSHFT
   - {t: ▽, type: trans}
-  - CLCK
+  - {t: ▽, type: trans}
   - LEFT
   - DOWN ARROW
   - UP ARROW
@@ -196,12 +196,12 @@ layers:
   - ''
   - ''
   - ''
-  - EP TOG
-  - RGB HUD
-  - RGB HUI
-  - RGB SAD
-  - RGB SAI
-  - RGB EFF
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ''
   - ''
   - ''
@@ -209,8 +209,8 @@ layers:
   - ''
   - ''
   - ''
-  - RGB BRD
-  - RGB BRI
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ''
   - ''
   - ''
@@ -226,7 +226,7 @@ layers:
   - ''
   - ''
   - ''
-  - RGB TOG
+  - {t: ▽, type: trans}
   - ''
   - ''
   - ''
