@@ -26,16 +26,16 @@ layers:
   - P
   - {t: ▽, type: trans}
   - ESC
-  - A
-  - S
-  - D
-  - F
+  - {t: A, h: LEFT CONTROL}
+  - {t: S, h: LEFT ALT}
+  - {t: D, h: LEFT COMMAND}
+  - {t: F, h: LEFT SHIFT}
   - G
   - H
-  - J
-  - K
-  - L
-  - ;
+  - {t: J, h: RIGHT SHIFT}
+  - {t: K, h: RIGHT COMMAND}
+  - {t: L, h: RIGHT ALT}
+  - {t: ;, h: RIGHT CONTROL}
   - BACKSPACE
   - LSHFT
   - Z
@@ -51,16 +51,16 @@ layers:
   - .
   - /
   - RSHFT
+  - LEFT ALT
   - LEFT CONTROL
-  - LALT
   - LEFT GUI
   - {t: TAB, h: left}
   - ENTER
   - SPACE
   - {t: TAB, h: right}
   - Sft+AltGr+Ctl+Gui+RCTRL
-  - RALT
-  - LEFT CONTROL
+  - RIGHT CONTROL
+  - RIGHT ALT
   left:
   - '&studio_unlock'
   - F1
