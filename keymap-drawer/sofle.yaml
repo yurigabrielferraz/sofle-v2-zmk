@@ -1,5 +1,8 @@
 layout: {zmk_keyboard: sofle}
 layers:
+  windows: ['&DTapQuote', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', TAB, Q, W, E, R, T, Y, U, I, O, P, '=', ESC, A, S, D, F, G, H, J, K, L, ;, BACKSPACE,
+    LSHFT, Z, X, C, V, B, MUTE, PLAY PAUSE, N, M, ',', ., /, \, LEFT ALT, LEFT CONTROL, LEFT GUI, left, ENTER, SPACE, right, Sft+AltGr+Ctl+Gui+RCTRL, RIGHT CONTROL,
+    RIGHT ALT]
   mac:
   - '&DTapQuote'
   - '1'
@@ -206,7 +209,7 @@ layers:
   - ''
   - ''
   - ''
-  - {t: windows, h: toggle}
+  - {t: mac, h: toggle}
   - ''
   - ''
   - {t: ▽, type: trans}
@@ -244,6 +247,3 @@ layers:
   - ''
   - ''
   - ''
-  windows: ['&DTapQuote', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', TAB, Q, W, E, R, T, Y, U, I, O, P, '=', ESC, A, S, D, F, G, H, J, K, L, ;, BACKSPACE,
-    LSHFT, Z, X, C, V, B, MUTE, PLAY PAUSE, N, M, ',', ., /, \, LEFT ALT, LEFT CONTROL, LEFT GUI, left, ENTER, SPACE, right, Sft+AltGr+Ctl+Gui+RCTRL, RIGHT CONTROL,
-    RIGHT ALT]
