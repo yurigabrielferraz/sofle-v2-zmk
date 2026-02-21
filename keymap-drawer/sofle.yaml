@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: ▽, type: trans}
+  - '-'
   - TAB
   - Q
   - W
@@ -24,7 +24,7 @@ layers:
   - I
   - O
   - P
-  - {t: ▽, type: trans}
+  - '='
   - ESC
   - {t: A, h: LEFT CONTROL}
   - {t: S, h: LEFT ALT}
@@ -61,7 +61,7 @@ layers:
   - Sft+AltGr+Ctl+Gui+RCTRL
   - RIGHT CONTROL
   - RIGHT ALT
-  default:
+  windows:
   - '&DTapQuote'
   - '1'
   - '2'
@@ -73,7 +73,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: ▽, type: trans}
+  - '-'
   - TAB
   - Q
   - W
@@ -85,24 +85,24 @@ layers:
   - I
   - O
   - P
-  - {t: ▽, type: trans}
+  - '='
   - ESC
   - A
   - S
-  - {t: D, h: LCTRL}
-  - {t: F, h: LEFT SHIFT}
+  - D
+  - F
   - G
   - H
-  - {t: J, h: RIGHT SHIFT}
-  - {t: K, h: RCTRL}
+  - J
+  - K
   - L
   - ;
   - BACKSPACE
   - LSHFT
   - Z
-  - {t: X, h: Gui+X}
-  - {t: C, h: Gui+C}
-  - {t: V, h: Gui+V}
+  - X
+  - C
+  - V
   - B
   - MUTE
   - PLAY PAUSE
@@ -110,8 +110,8 @@ layers:
   - M
   - ','
   - .
-  - {t: '|', h: '&DTapBackslash'}
-  - RSHFT
+  - /
+  - \
   - LEFT ALT
   - LEFT CONTROL
   - LEFT GUI
@@ -153,11 +153,11 @@ layers:
   - '['
   - '{'
   - (
-  - )
-  - '}'
-  - ']'
-  - '>'
-  - )
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '|'
   - {t: ▽, type: trans}
   - '='
@@ -167,8 +167,8 @@ layers:
   - '}'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '['
-  - ']'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ;
   - ':'
   - \
@@ -267,7 +267,7 @@ layers:
   - ''
   - ''
   - ''
-  - {t: default, h: toggle}
+  - {t: windows, h: toggle}
   - ''
   - ''
   - {t: ▽, type: trans}
