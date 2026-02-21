@@ -61,67 +61,6 @@ layers:
   - Sft+AltGr+Ctl+Gui+RCTRL
   - RIGHT CONTROL
   - RIGHT ALT
-  windows:
-  - '&DTapQuote'
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
-  - '8'
-  - '9'
-  - '0'
-  - '-'
-  - TAB
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
-  - P
-  - '='
-  - ESC
-  - A
-  - S
-  - D
-  - F
-  - G
-  - H
-  - J
-  - K
-  - L
-  - ;
-  - BACKSPACE
-  - LSHFT
-  - Z
-  - X
-  - C
-  - V
-  - B
-  - MUTE
-  - PLAY PAUSE
-  - N
-  - M
-  - ','
-  - .
-  - /
-  - \
-  - LEFT ALT
-  - LEFT CONTROL
-  - LEFT GUI
-  - {t: TAB, h: left}
-  - ENTER
-  - SPACE
-  - {t: TAB, h: right}
-  - Sft+AltGr+Ctl+Gui+RCTRL
-  - RIGHT CONTROL
-  - RIGHT ALT
   left:
   - '&studio_unlock'
   - F1
@@ -305,3 +244,64 @@ layers:
   - ''
   - ''
   - ''
+  windows:
+  - '&DTapQuote'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '-'
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - '='
+  - ESC
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - BACKSPACE
+  - LSHFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - MUTE
+  - PLAY PAUSE
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - \
+  - LEFT ALT
+  - LEFT CONTROL
+  - LEFT GUI
+  - {t: TAB, h: left}
+  - ENTER
+  - SPACE
+  - {t: TAB, h: right}
+  - Sft+AltGr+Ctl+Gui+RCTRL
+  - RIGHT CONTROL
+  - RIGHT ALT
