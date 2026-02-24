@@ -81,6 +81,8 @@
             label = "DTAPQUOTE";
             #binding-cells = <0>;
             bindings = <&kp SINGLE_QUOTE>, <&kp DOUBLE_QUOTES>;
+
+            tapping-term-ms = <350>;
         };
 
         longPress: longPress {
@@ -98,6 +100,8 @@
             label = "DTAPBACKSLASH";
             #binding-cells = <0>;
             bindings = <&kp SLASH>, <&kp BACKSLASH>;
+
+            tapping-term-ms = <350>;
         };
 
         HDTapBackslashPipe: HDTapBackslashPipe {
@@ -115,6 +119,8 @@
             label = "DTAPCOMMA";
             #binding-cells = <0>;
             bindings = <&kp DOT>, <&kp COMMA>;
+
+            tapping-term-ms = <350>;
         };
 
         DTapUnderscore: DTapUnderscore {
