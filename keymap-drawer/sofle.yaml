@@ -48,7 +48,7 @@ layers:
   - N
   - M
   - '&DTapComma'
-  - _
+  - '&DTapUnderscore'
   - {t: '&DTapBackslash PIPE', h: '|'}
   - RSHFT
   - LEFT ALT
