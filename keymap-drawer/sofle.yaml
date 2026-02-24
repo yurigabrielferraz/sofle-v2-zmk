@@ -47,9 +47,9 @@ layers:
   - PLAY PAUSE
   - N
   - M
-  - ','
-  - .
-  - {t: '|', h: '&DTapBackslash'}
+  - '&DTapComma'
+  - _
+  - {t: '&DTapBackslash PIPE', h: '|'}
   - RSHFT
   - LEFT ALT
   - LEFT CONTROL
@@ -148,9 +148,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LALT
-  - LCTRL
-  - LSHFT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT
