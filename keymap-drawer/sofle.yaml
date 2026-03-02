@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: sofle}
 layers:
   mac:
-  - '&DTapQuote'
+  - '`'
   - '1'
   - '2'
   - '3'
@@ -47,9 +47,9 @@ layers:
   - F20
   - N
   - M
-  - '&DTapComma'
-  - '&DTapUnderscore'
-  - {t: '&DTapBackslash PIPE', h: '|'}
+  - ','
+  - .
+  - /
   - RIGHT ALT
   - LEFT CONTROL
   - LEFT SHIFT
