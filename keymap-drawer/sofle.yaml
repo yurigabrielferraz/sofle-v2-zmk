@@ -44,7 +44,7 @@ layers:
   - {t: V, h: Gui+V}
   - B
   - MUTE
-  - PLAY PAUSE
+  - F20
   - N
   - M
   - '&DTapComma'
