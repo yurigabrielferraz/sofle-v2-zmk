@@ -197,24 +197,22 @@ layers:
   - ''
   - ''
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - ''
-  - ''
-  - ''
-  - ''
-  - {t: mac, h: toggle}
-  - ''
-  - ''
-  - {t: ▽, type: trans}
+  - F1
+  - F2
+  - F3
+  - F4
   - {t: ▽, type: trans}
   - ''
   - ''
   - ''
   - ''
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - F5
+  - F6
+  - F7
+  - F8
   - ''
   - ''
   - ''
@@ -223,8 +221,10 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - ''
+  - F9
+  - F10
+  - F11
+  - F12
   - ''
   - {t: ▽, type: trans}
   - ''
